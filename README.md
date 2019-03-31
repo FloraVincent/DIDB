@@ -1,6 +1,19 @@
 [![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.svg)](https://travis-ci.org/globalbioticinteractions/template-dataset)
 [![DOI](https://zenodo.org/badge/178421754.svg)](https://zenodo.org/badge/latestdoi/178421754) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
 
+## DIDB: Diatom Interaction DataBase
+Literature was screened to look for all ecological interactions involving diatoms to establish the current state of knowledge regarding the diatom interactome, both in marine and freshwater environments. 
+
+Diatom ecological interactions as defined in this databse are a very large group of associations, characterized by (i) the nature of the association defined by the ecological interaction or the mechanism (predation, symbiosis, mutualism, competition, epibiosis), (ii) the diatom involved, and (iii) the partners of the interaction. 
+
+The protocol to build the list of literature-based interactions was the following :
+(i) collect publications involving diatom associations using (a) the Web of Science query TITLE: (diatom*) AND TOPIC : (symbio* OR competition OR parasit* OR predat* OR epiphyte OR allelopathy OR epibiont OR mutualism) ; (b) Eutils tools to mine Pubmed and extract ID of all publications with the search url http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=diatom+symbiosis&usehistory=y and the same keywords; (c)  the get_interactions_by_taxa(sourcetaxon = “Bacillariophyta”) function from the RGlobi package (Poelen et al., 2014), the most recent and extensive automated database of biotic interactions; and (d) personal mining from other publication browsers and input from experts 
+(ii) extract when relevant the partners of the interactions based on the title and on the abstract for Web of Science, Pubmed and personal references and normalize the label of the interaction based on Globi nomenclature 
+(iii) display KRONA plot with Type of Interaction / Partner Class / Diatom genus / Partner genus_species (Figure 4). 
+
+Cases of episammic (sand) and epipelon (mud) interactions were not considered as they involved association with non-living surfaces.
+
+
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
@@ -8,24 +21,9 @@ If you have comments or questions please [open an issue](https://github.com/jhpo
 ## Share Your Interaction Data
 If you want to share your own data through GloBI:
 
-1. Fork this repository. For some reason, GitHub does not allow for forking a repository more than once for a specific account. If you want multiple forks for your account, please see [create multi-forks](https://handong1587.github.io/linux_study/2015/12/18/create-multi-forks.html).
 2. Edit your ```README.md``` to describe your data in a human readable form.
 3. Ensure that your README.rd contains a reference to ```http://globalbioticinteractions.org```.
 4. Edit your ```globi.json``` to provide a machine readable description of your dataset (e.g. citation, license, version, files, format).
-5. Edit the name of your repository and description to make it easy for others to understand what your data is about.
-
-After you do this, the data will be available through GloBI within a day or so.
-
-## Enable Automated Dataset Preservation/Publication
-Preserving and publishing your valuable data is now easier than ever. 
-
-To enable automated preserving and publishing your data:
-
-1. login/register with [zenodo](https://zenodo.org)
-2. enable automated preservation and publication of your dataset using instructions at  https://zenodo.org/account/settings/github/ or https://guides.github.com/activities/citable-code/
-3. edit your zenodo publication and add it to zenodo's [Global Biotic Interactions community](https://zenodo.org/communities/globalbioticinteractions/). 
-
-For a completed example, see the publication of this template repository at [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374).
 
 ## Enable Integration Testing
 You can use http://travis-ci.org to check whether your data can be read by GloBI. This helps you to confirm that the changes you make in your GloBI data repository are compatible with GloBIs data processing pipeline.
@@ -92,8 +90,4 @@ interactionTypeId | interactionTypeName
 [RO:0002444](http://www.ontobee.org/browser/rdf.php?o=RO&iri=http://purl.obolibrary.org/obo/RO_0002444) | parasite of
 [RO:0002455](http://www.ontobee.org/browser/rdf.php?o=RO&iri=http://purl.obolibrary.org/obo/RO_0002455) | pollinates
 [RO:0002556](http://www.ontobee.org/browser/rdf.php?o=RO&iri=http://purl.obolibrary.org/obo/RO_0002556) | pathogen of
-
-## DIDB: Diatom Interaction DataBase
-Literature was screened to look for all ecological interactions involving diatoms to establish the current state of knowledge regarding the diatom interactome, both in marine and freshwater environments. Diatom ecological interactions as defined in this databse are a very large group of associations, characterized by (i) the nature of the association defined by the ecological interaction or the mechanism (predation, symbiosis, mutualism, competition, epibiosis), (ii) the diatom involved, and (iii) the partners of the interaction. 
-The protocol to build the list of literature-based interactions was the following (i) collect publications involving diatom associations using (a) the Web of Science query TITLE: (diatom*) AND TOPIC : (symbio* OR competition OR parasit* OR predat* OR epiphyte OR allelopathy OR epibiont OR mutualism) ; (b) Eutils tools to mine Pubmed and extract ID of all publications with the search url http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=diatom+symbiosis&usehistory=y and the same keywords; (c)  the get_interactions_by_taxa(sourcetaxon = “Bacillariophyta”) function from the RGlobi package (Poelen et al., 2014), the most recent and extensive automated database of biotic interactions; and (d) personal mining from other publication browsers and input from experts (ii) extract when relevant the partners of the interactions based on the title and on the abstract for Web of Science, Pubmed and personal references and normalize the label of the interaction based on Globi nomenclature (iii) display KRONA plot with Type of Interaction / Partner Class / Diatom genus / Partner genus_species (Figure 4). Cases of episammic (sand) and epipelon (mud) interactions were not considered as they involved association with non-living surfaces.
 

@@ -9,7 +9,7 @@ Diatom ecological interactions as defined in this databse are a very large group
 The protocol to build the list of literature-based interactions was the following :
 (i) collect publications involving diatom associations using (a) the Web of Science query TITLE: (diatom*) AND TOPIC : (symbio* OR competition OR parasit* OR predat* OR epiphyte OR allelopathy OR epibiont OR mutualism) ; (b) Eutils tools to mine Pubmed and extract ID of all publications with the search url http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=diatom+symbiosis&usehistory=y and the same keywords; (c)  the get_interactions_by_taxa(sourcetaxon = “Bacillariophyta”) function from the RGlobi package (Poelen et al., 2014), the most recent and extensive automated database of biotic interactions; and (d) personal mining from other publication browsers and input from experts 
 (ii) extract when relevant the partners of the interactions based on the title and on the abstract for Web of Science, Pubmed and personal references and normalize the label of the interaction based on Globi nomenclature 
-(iii) display KRONA plot with Type of Interaction / Partner Class / Diatom genus / Partner genus_species. 
+(iii) display KRONA plot with Type of Interaction / Partner Class / Diatom genus / Partner genus_species (DIDB_KRONA.png). 
 
 Cases of episammic (sand) and epipelon (mud) interactions were not considered as they involved association with non-living surfaces.
 

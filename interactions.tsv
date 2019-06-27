@@ -1,6 +1,6 @@
 sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPartName	sourceLifeStageId	sourceLifeStageName	interactionTypeId	interactionTypeName	targetOccurrenceId	targetTaxonId	targetTaxonName	targetBodyPartId	targetBodyPartName	targetLifeStageId	targetLifeStageName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
 		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Hexacontium pachydermum										10.1016/j.protis.2006.07.004	(Dolven et al. 2007)⁠
-		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Dinothrix paradoxa										"http://scholar.google.com/scholar.bib?q=info:vV8bNca5N3EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAUJvgIllQKx7Viw_IR_UUaFri4MeTAURK&scisf=4&hl=en&num=100&as_sdt=0,5"	(Horiguchi & Chihara 1993)⁠⁠
+		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Dinothrix paradoxa										http://scholar.google.com/scholar.bib?q=info:vV8bNca5N3EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAUJvgIllQKx7Viw_IR_UUaFri4MeTAURK&scisf=4&hl=en&num=100&as_sdt=0,5	(Horiguchi & Chihara 1993)⁠⁠
 		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Peridinium quinquecorne										10.1515/botm.1991.34.2.123	(Horiguchi & Pienaar 1991)⁠
 		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Durinskia capensis										10.1007/s10265-006-0047-y	(Pienaar et al. 2007)⁠
 		NA NA					http://purl.obolibrary.org/obo/RO_0002453	host of			Galeidinium rugatum										10.1111/j.1529-8817.2005.00085.x	(Tamura et al. 2005)⁠
@@ -58,113 +58,113 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Nitzschia lecointei						epibiosis			Phaeophyta 										http://link.springer.com/article/10.1007%2FBF00007435	(Thomas et al. 1986)
 		Navicula gelida						epibiosis			Phaeophyta 										http://link.springer.com/article/10.1007%2FBF00007435	(Thomas et al. 1986)
 		Navicula gelida						epibiosis			Rhodophyta 										http://link.springer.com/article/10.1007%2FBF00007435	(Thomas et al. 1986)
-		Synedra cyclopum						epibiosis			Daphnia 										"Limnol. Oceanogr., 38(3), 1993, 628-637"	(Lanoo et al. 1993)
-		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Durinskia capensis										10.3354/ame01340	"(Stoecker et al,2009)"
-		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Kryptoperidinium foliaceum										10.3354/ame01341	"(Stoecker et al,2009)"
+		Synedra cyclopum						epibiosis			Daphnia 										Limnol. Oceanogr., 38(3), 1993, 628-637	(Lanoo et al. 1993)
+		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Durinskia capensis										10.3354/ame01340	(Stoecker et al,2009)
+		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Kryptoperidinium foliaceum										10.3354/ame01341	(Stoecker et al,2009)
 		Rhopalodia gibba					http://purl.obolibrary.org/obo/RO_0002453	host of			Cyanothece 											(Prechtl et al 2004)
 		Epithemia turgida					http://purl.obolibrary.org/obo/RO_0002453	host of			cyanobacteria 										 doi: 10.1073/pnas.1405222111	(Nakayama et al 2014)
 		Asterionella formosa					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Zygorhizidium planktonicum										DOI: 10.1371/journal.pone.0071737	(Gsell 2013)
 		Bacillariophyta 						epibiosis			Elphidium 										 doi: 10.1093/molbev/mss226	(Pilet 2012)
-		Climacosphenia sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Cylindrotheca closterium						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Denticulopsis sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Gyrosigma sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Leptocylindrus danicus						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Licmophora gracilis						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Navicula phyllepta						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Navicula duerrenbergiana						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Nitzschia linearis						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Striatella unipunctata						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Thalassionema nitzshioides						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	"(Dhib et al,2013)"
-		Achnanthes sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Asterionella formosa						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Cocconeis placentula						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Cyclotella sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Cymbella cistula						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Diatoma sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Diatomella sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Eunotia sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Fragilaria sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Gomphonema acuminatum						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Melosira circulare						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Navicula sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Nitzschia sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Pinnularia nobilis						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Rhizosolenia eriensis						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Rhopalodia gibba						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Stauroneis phoenicentron						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Stephanodiscus astrae						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Surirella sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Synedra sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Tabellaria sp.						epibiosis			Potamogeton amplifolius											"(Richard et al, 1975)"
-		Pseudo-nitzschia multiseries						epibiosis			Sulfitobacter pseudonitzschiae										doi:10.1099/ijs.0.064972-0	"(Hong et al, 2014)"
-		Cocconeis notata						epibiosis			Macrocystis pyrifera										Oceanides 16(2): 135-138	"(Siqueiros Beltrones, 2001)"
-		Isthmia nervosa						epibiosis			Odonthalia floccosa										DOI 10.1046/j.1529-8817.1998.340029.x	"(Ruesink, 1998)"
-		Bacillariophyta 						epibiosis			Enhalus acoroides										DOI 10.1515/botm.1995.38.1-6.1	"(Sterrenburg, 1995)"
-		Bacillariophyta 						epibiosis			Thalassia hemprichii										DOI 10.1515/botm.1995.38.1-6.1	"(Sterrenburg, 1995)"
-		Bacillariophyta 						epibiosis			Halodule wrightii											"(Jewett Smith,1991)"
-		Cocconeis scutellum						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Cocconeis posidoniae						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Diploneis sp.						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Cocconeis scutellum						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Cocconeis posidoniae						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Diploneis sp.						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	"(Maibam, 2014)"
-		Pseudogomphonema kamschaticum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pyropia 											"(Klochkova,2014)"
-		Cocconeis ehrenberg						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	"(Majewka,2014)"
-		Cocconeis neothumensis						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	"(Majewka,2014)"
-		Cocconeis scutellum						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	"(Majewka,2014)"
-		Pseudohimantidium pacificum						epibiosis			Farranula gibbula										UT WOS:000267894300003	"(Garate-Lizarraga, 2009)"
-		Cocconeis pediculus						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Diatoma moniliformis						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Gomphonema olivaceum						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Fragilaria hyalina						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Hyalosira delicatula						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Licmophora debilis						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Rhoicosphenia curvata						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Tabularia tabulata						epibiosis			Rivularia atra											"(Snoeijs, 2004)"
-		Amphora sp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Berkeleya fennica					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Cymbella pusilla					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Entomoneis pseudoduplex					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Epithemia spp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Lunella 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Mastogloia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Nitzschia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Rhopalodia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											"(Snoeijs, 2004)"
-		Navicula sp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Phormidium sp.											"(Brehm et al, 2003)"
-		Pseudo-nitzschia australis					http://purl.obolibrary.org/obo/RO_0002453	host of			Marinobacter 										doi:10.1038/ismej.2013.138	"(Sison-Mangus,2014)"
-		Pseudo-nitzschia australis					http://purl.obolibrary.org/obo/RO_0002453	host of			Salegentibacter 										doi:10.1038/ismej.2013.138	"(Sison-Mangus,2014)"
-		Thalassionema 					http://purl.obolibrary.org/obo/RO_0002453	host of			Nummulitidae 											"(Holzmann et al, 2006)"
-		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Haliclona dancoi										DOI 10.1016/j.marenvres.2004.03.055	"(Regoli et al,2004)"
-		Pseudohimantidium pacificum						epibiosis			Coryceus amazonicus											"(Fernandes, 2012)"
-		Pseudohimantidium pacificum						epibiosis			Euterpina acutifrons											"(Fernandes, 2012)"
-		Falcula hyalina						epibiosis			Oithona oswaldocruzii											"(Fernandes, 2012)"
-		Falcula hyalina						epibiosis			Pseudodiaptomus richardii											"(Fernandes, 2012)"
-		Falcula hyalina						epibiosis			Acartia spp.											"(Fernandes, 2012)"
-		Fragilaria intermedia						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	"(Madkour, 2012)"
-		Amphora coffeaeformis						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	"(Madkour, 2012)"
-		Cocconeis placentula						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	"(Madkour, 2012)"
-		Fragilariopsis doliolus						epibiosis			Dictyocha pentagona											"(Garate-Lizarraga, 2009)"
-		Licmophora sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	"(Di Camillo et am, 2005)"
-		Amphora sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	"(Di Camillo et am, 2005)"
-		Cocconeis sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	"(Di Camillo et am, 2005)"
-		Cocconeis placentula						epibiosis			Hydrobia ulvae										DOI 10.1016/S1385-1101(99)00041-6	"(Gillan et al, 2000)"
-		Achnanthes lemmermanni						epibiosis			Hydrobia ulvae										DOI 10.1016/S1385-1101(99)00041-6	"(Gillan et al, 2000)"
-		Synedra cyclopum						epibiosis			Daphnia spp.											"(Gaider, 1993)"
-		Guinardia delicatula					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Cryothecomonas aestivalis										DOI 10.3354/meps10784	"(Peacock, 2014)"
+		Climacosphenia sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Cylindrotheca closterium						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Denticulopsis sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Gyrosigma sp.						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Leptocylindrus danicus						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Licmophora gracilis						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Navicula phyllepta						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Navicula duerrenbergiana						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Nitzschia linearis						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Striatella unipunctata						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Thalassionema nitzshioides						epibiosis			Ruppia cirrhosa										doi: 10.1016/j.marpolbul.2013.09.017	(Dhib et al,2013)
+		Achnanthes sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Asterionella formosa						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Cocconeis placentula						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Cyclotella sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Cymbella cistula						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Diatoma sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Diatomella sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Eunotia sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Fragilaria sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Gomphonema acuminatum						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Melosira circulare						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Navicula sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Nitzschia sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Pinnularia nobilis						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Rhizosolenia eriensis						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Rhopalodia gibba						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Stauroneis phoenicentron						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Stephanodiscus astrae						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Surirella sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Synedra sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Tabellaria sp.						epibiosis			Potamogeton amplifolius											(Richard et al, 1975)
+		Pseudo-nitzschia multiseries						epibiosis			Sulfitobacter pseudonitzschiae										doi:10.1099/ijs.0.064972-0	(Hong et al, 2014)
+		Cocconeis notata						epibiosis			Macrocystis pyrifera										Oceanides 16(2): 135-138	(Siqueiros Beltrones, 2001)
+		Isthmia nervosa						epibiosis			Odonthalia floccosa										DOI 10.1046/j.1529-8817.1998.340029.x	(Ruesink, 1998)
+		Bacillariophyta 						epibiosis			Enhalus acoroides										DOI 10.1515/botm.1995.38.1-6.1	(Sterrenburg, 1995)
+		Bacillariophyta 						epibiosis			Thalassia hemprichii										DOI 10.1515/botm.1995.38.1-6.1	(Sterrenburg, 1995)
+		Bacillariophyta 						epibiosis			Halodule wrightii											(Jewett Smith,1991)
+		Cocconeis scutellum						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Cocconeis posidoniae						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Diploneis sp.						epibiosis			Posidonia oceanica										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Cocconeis scutellum						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Cocconeis posidoniae						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Diploneis sp.						allelopathy			Paracentrotus lividus										DOI 10.1007/s00227-014-2448-0	(Maibam, 2014)
+		Pseudogomphonema kamschaticum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pyropia 											(Klochkova,2014)
+		Cocconeis ehrenberg						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	(Majewka,2014)
+		Cocconeis neothumensis						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	(Majewka,2014)
+		Cocconeis scutellum						epibiosis			Posidonia oceanica										DOI 10.1016/j.aquabot.2013.07.008	(Majewka,2014)
+		Pseudohimantidium pacificum						epibiosis			Farranula gibbula										UT WOS:000267894300003	(Garate-Lizarraga, 2009)
+		Cocconeis pediculus						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Diatoma moniliformis						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Gomphonema olivaceum						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Fragilaria hyalina						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Hyalosira delicatula						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Licmophora debilis						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Rhoicosphenia curvata						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Tabularia tabulata						epibiosis			Rivularia atra											(Snoeijs, 2004)
+		Amphora sp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Berkeleya fennica					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Cymbella pusilla					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Entomoneis pseudoduplex					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Epithemia spp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Lunella 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Mastogloia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Nitzschia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Rhopalodia 					http://purl.obolibrary.org/obo/RO_0002453	host of			Rivularia atra											(Snoeijs, 2004)
+		Navicula sp.					http://purl.obolibrary.org/obo/RO_0002453	host of			Phormidium sp.											(Brehm et al, 2003)
+		Pseudo-nitzschia australis					http://purl.obolibrary.org/obo/RO_0002453	host of			Marinobacter 										doi:10.1038/ismej.2013.138	(Sison-Mangus,2014)
+		Pseudo-nitzschia australis					http://purl.obolibrary.org/obo/RO_0002453	host of			Salegentibacter 										doi:10.1038/ismej.2013.138	(Sison-Mangus,2014)
+		Thalassionema 					http://purl.obolibrary.org/obo/RO_0002453	host of			Nummulitidae 											(Holzmann et al, 2006)
+		Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002453	host of			Haliclona dancoi										DOI 10.1016/j.marenvres.2004.03.055	(Regoli et al,2004)
+		Pseudohimantidium pacificum						epibiosis			Coryceus amazonicus											(Fernandes, 2012)
+		Pseudohimantidium pacificum						epibiosis			Euterpina acutifrons											(Fernandes, 2012)
+		Falcula hyalina						epibiosis			Oithona oswaldocruzii											(Fernandes, 2012)
+		Falcula hyalina						epibiosis			Pseudodiaptomus richardii											(Fernandes, 2012)
+		Falcula hyalina						epibiosis			Acartia spp.											(Fernandes, 2012)
+		Fragilaria intermedia						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	(Madkour, 2012)
+		Amphora coffeaeformis						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	(Madkour, 2012)
+		Cocconeis placentula						epibiosis			Schizophrys dahlak										DOI 10.1017/S1755267212000437	(Madkour, 2012)
+		Fragilariopsis doliolus						epibiosis			Dictyocha pentagona											(Garate-Lizarraga, 2009)
+		Licmophora sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	(Di Camillo et am, 2005)
+		Amphora sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	(Di Camillo et am, 2005)
+		Cocconeis sp.						epibiosis			Eudendrium racemosum										DOI 10.1017/S0025315405012555	(Di Camillo et am, 2005)
+		Cocconeis placentula						epibiosis			Hydrobia ulvae										DOI 10.1016/S1385-1101(99)00041-6	(Gillan et al, 2000)
+		Achnanthes lemmermanni						epibiosis			Hydrobia ulvae										DOI 10.1016/S1385-1101(99)00041-6	(Gillan et al, 2000)
+		Synedra cyclopum						epibiosis			Daphnia spp.											(Gaider, 1993)
+		Guinardia delicatula					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Cryothecomonas aestivalis										DOI 10.3354/meps10784	(Peacock, 2014)
 		Coscinodiscus granii					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia diadema										DOI 10.1007/s00227-008-0904-4	(Kuehn 2008)
 		Coscinodiscus wailesii					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia diadema										DOI 10.1007/s00227-008-0904-4	(Kuehn 2008)
 		Bacillariophyta 						competes with			Phaeocystis pouchetii										DOI 10.1016/j.jmarsys.2014.02.011	(Jian 2014)
-		Stephanodiscus minutulus						competes with			Nitzschia acicularis										DOI 10.1093/plankt/fbt058	"(Shatwell, 2013)"
-		Cyclotella sp						competes with			Microcystis aeruginosa										DOI 10.1007/s10811-011-9718-8	"(Amano,2012)"
-		Navicula phyllepta						competes with			Chroococcus dimidiatus										DOI 10.2216/11-80.1	"(Scholz, 2012)"
-		Navicula phyllepta						competes with			Anabaena torulosa										DOI 10.2216/11-80.1	"(Scholz, 2012)"
-		Achnanthidium minutissimum						competes with			Cocconeis placentula										DOI 10.1080/02705060.2009.9664275	"(Manoylov,2009)"
-		Achnanthidium minutissimum						competes with			Cymbella cistula										DOI 10.1080/02705060.2009.9664275	"(Manoylov,2009)"
-		Skeletonema marinoi						competes with			Pseudo-nitzschia 										DI 10.3390/md11072398	"(Prince, 2013)"
-		Thalassiosira weissflogii						competes with			Marinobacter 											"(Wang, 2014)"
-		Chaetoceros neogracile						competes with			Alexandrium minutum										DI 10.1007/s00248-011-9889-5	"(Lelong, 2011)"
-		Skeletonema costatum						competes with			Heterosigma akashiwo											"(Yamasaki,2011)"
+		Stephanodiscus minutulus						competes with			Nitzschia acicularis										DOI 10.1093/plankt/fbt058	(Shatwell, 2013)
+		Cyclotella sp						competes with			Microcystis aeruginosa										DOI 10.1007/s10811-011-9718-8	(Amano,2012)
+		Navicula phyllepta						competes with			Chroococcus dimidiatus										DOI 10.2216/11-80.1	(Scholz, 2012)
+		Navicula phyllepta						competes with			Anabaena torulosa										DOI 10.2216/11-80.1	(Scholz, 2012)
+		Achnanthidium minutissimum						competes with			Cocconeis placentula										DOI 10.1080/02705060.2009.9664275	(Manoylov,2009)
+		Achnanthidium minutissimum						competes with			Cymbella cistula										DOI 10.1080/02705060.2009.9664275	(Manoylov,2009)
+		Skeletonema marinoi						competes with			Pseudo-nitzschia 										DI 10.3390/md11072398	(Prince, 2013)
+		Thalassiosira weissflogii						competes with			Marinobacter 											(Wang, 2014)
+		Chaetoceros neogracile						competes with			Alexandrium minutum										DI 10.1007/s00248-011-9889-5	(Lelong, 2011)
+		Skeletonema costatum						competes with			Heterosigma akashiwo											(Yamasaki,2011)
 		Thalassiosira pseudonana					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Nitokra lacustris										10.1093/plankt/fbs003	(Parrish et al. 2012)⁠
 		Thalassiosira pseudonana					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Tisbe furcata										10.1093/plankt/fbs003	(Parrish et al. 2012)⁠
 		Chaetoceros NA					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Euphausia superba										10.1007/s10126-005-6088-8	(Passmore et al. 2006)⁠
@@ -191,13 +191,13 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Thalassiosira NA					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Euphausia superba										10.1007/s10126-005-6088-8	(Passmore et al. 2006)⁠
 		Thalassiosira oliverana					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Euphausia superba										10.1007/s10126-005-6088-8	(Passmore et al. 2006)⁠
 		Skeletonema costatum					http://purl.obolibrary.org/obo/RO_0002471	eaten by			Penilia avirostris										10.1007/BF00391145	(Kim et al. 1989)⁠
-		Chaetoceros tetrastichon						epibiosis			Eutintinnus apertus										DOI 10.1007/s00227-007-0625-0	"(Gomez, 2006)"
-		Chaetoceros dadayi						epibiosis			Eutintinnus apertus										DOI 10.1007/s00227-007-0625-1	"(Gomez, 2006)"
-		Planktoniella sol						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-2	"(Gomez, 2006)"
-		Hemiaulus hauckii						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-3	"(Gomez, 2006)"
-		Chaetoceros peruvianus						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-4	"(Gomez, 2006)"
-		Fragilariopsis 						epibiosis			Eutintinnus spp.										DOI 10.1007/s00227-007-0625-5	"(Gomez, 2006)"
-		Fragilariopsis 						epibiosis			Salpingella subconica										DOI 10.1007/s00227-007-0625-6	"(Gomez, 2006)(Froneman. 1998)"
+		Chaetoceros tetrastichon						epibiosis			Eutintinnus apertus										DOI 10.1007/s00227-007-0625-0	(Gomez, 2006)
+		Chaetoceros dadayi						epibiosis			Eutintinnus apertus										DOI 10.1007/s00227-007-0625-1	(Gomez, 2006)
+		Planktoniella sol						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-2	(Gomez, 2006)
+		Hemiaulus hauckii						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-3	(Gomez, 2006)
+		Chaetoceros peruvianus						epibiosis			Eutintinnus lususundae										DOI 10.1007/s00227-007-0625-4	(Gomez, 2006)
+		Fragilariopsis 						epibiosis			Eutintinnus spp.										DOI 10.1007/s00227-007-0625-5	(Gomez, 2006)
+		Fragilariopsis 						epibiosis			Salpingella subconica										DOI 10.1007/s00227-007-0625-6	(Gomez, 2006)(Froneman. 1998)
 	EOL:3685	Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002471	eaten by		EOL:110606	Hydraena 											
 	EOL:3685	Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002471	eaten by		EOL:8941719	Orchymontia 											
 	EOL:3685	Bacillariophyta 					http://purl.obolibrary.org/obo/RO_0002471	eaten by		EOL:8612	Scirtidae 											
@@ -1227,7 +1227,7 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Bacteriastrum hyalinum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Paulsenella sp.											(Kühn)
 		Bacteriastrum hyalinum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Rhizamoeba schnepfii											(Kühn)
 		Bacteriastrum hyalinum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Rhizophydium spp.											(Kühn)
-		Bellerochea malleus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""A"""											(Kühn)
+		Bellerochea malleus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"A"											(Kühn)
 		Bellerochea malleus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
 		Bellerochea malleus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Paulsenella vonstoschii											(Kühn)
 		Bellerochea malleus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Phagomyxa sp.											(Kühn)
@@ -1261,7 +1261,7 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Coscinodiscus wailesii					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Hemistasia phaeocysticola											(Kühn)
 		Coscinodiscus wailesii					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Lagenisma coscinodiscii											(Kühn)
 		Coscinodiscus sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
-		Cylindrotheca closterium					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""B"" "											(Kühn)
+		Cylindrotheca closterium					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"B" 											(Kühn)
 		Detonula pumila					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
 		Detonula pumila					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia sp.											(Kühn)
 		Eucampia zodiacus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
@@ -1285,7 +1285,7 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Guinardia flaccida					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Rhizamoeba schnepfii											(Kühn)
 		Guinardia striata					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia formosa											(Kühn)
 		Guinardia striata					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Cryothecomonas sp.											(Kühn)
-		Helicotheca tamesis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""A"" "											(Kühn)
+		Helicotheca tamesis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"A" 											(Kühn)
 		Helicotheca tamesis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Paulsenella vonstoschii											(Kühn)
 		Lauderia annulata					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
 		Lauderia annulata					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia eucampiae											(Kühn)
@@ -1295,17 +1295,17 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Leptocylindrus danicus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia formosa											(Kühn)
 		Leptocylindrus danicus					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia mucosa											(Kühn)
 		Licmophora spp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
-		Lithodesmium undulatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""A"" "											(Kühn)
+		Lithodesmium undulatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"A" 											(Kühn)
 		Lithodesmium undulatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
 		Lithodesmium undulatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Paulsenella vonstoschii											(Kühn)
-		Navicula  sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""B"" "											(Kühn)
+		Navicula  sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"B" 											(Kühn)
 		Navicula  sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Cryothecomonas longipes											(Kühn)
 		Navicula  sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella 											(Kühn)
 		Neostreptotheca subindica					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Paulsenella vonstoschii											(Kühn)
 		Odontella aurita					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Gyrodinium undulans											(Kühn)
 		Odontella aurita					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Hemistasia phaeocysticola											(Kühn)
 		Odontella sinensis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Amoeba biddulphiae											(Kühn)
-		Odontella sinensis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""A"" "											(Kühn)
+		Odontella sinensis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"A" 											(Kühn)
 		Odontella sinensis					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Phagomyxa odontellae											(Kühn)
 		Palmeria hardmaniana					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Lagenisma coscinodiscii											(Kühn)
 		Pleurosigma sp.					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Cryothecomonas longipes											(Kühn)
@@ -1322,7 +1322,7 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Rhizosolenia setigera					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia formosa											(Kühn)
 		Rhizosolenia setigera					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia lenis											(Kühn)
 		Rhizosolenia similoides					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia formosa											(Kühn)
-		Skeletonema costatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			"Chytrid""B"" "											(Kühn)
+		Skeletonema costatum					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Chytrid"B" 											(Kühn)
 		Stephanopyxis turris					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Ectrogella perforans											(Kühn)
 		Stephanopyxis turris					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Pirsonia formosa											(Kühn)
 		Stephanopyxis turris					http://purl.obolibrary.org/obo/RO_0002445	has parasite			Rhizamoeba schnepfii											(Kühn)
@@ -1344,8 +1344,8 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPart
 		Chaetoceros compressus						epibiosis			Richelia intracellularis										10.1093/plankt/fbi007	(Gomez et al. 2005)
 		Rhizosolenia clevei						epibiosis			Richelia intracellularis										10.1093/plankt/fbi007	(Gomez et al. 2005)(Foster et al. 2011)
 		Cocconeis notata						epibiosis			Macrocystis pyrifera										BCI200200293608	(Siqueiros et al.2001)
-		Isthmia nervosa						epibiosis			Odonthalia floccosa										10.1046/j.1529-8817.1998.340029.x	"(Ruesink, 1998)"
-		Bacillariophyta 						epibiosis			Myriophyllum spicatum										WOS:A1978EW83200006	"(Eminson, 1978)"
+		Isthmia nervosa						epibiosis			Odonthalia floccosa										10.1046/j.1529-8817.1998.340029.x	(Ruesink, 1998)
+		Bacillariophyta 						epibiosis			Myriophyllum spicatum										WOS:A1978EW83200006	(Eminson, 1978)
 		Bacillariophyta 						epibiosis			Posidonia oceanica										10.1007/s00227-014-2448-0	(Maibam et al.2014)
 		Bacillariophyta 						epibiosis			Posidonia oceanica										10.1007/s00227-014-2448-0	(Maibam et al.2014)
 		Bacillariophyta 						epibiosis			Posidonia oceanica										10.1007/s00227-014-2448-0	(Maibam et al.2014)
